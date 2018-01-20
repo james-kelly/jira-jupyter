@@ -1,0 +1,6 @@
+jira
+jupyter
+matplotlib
+pandas
+tqdm
+python-dateutil
